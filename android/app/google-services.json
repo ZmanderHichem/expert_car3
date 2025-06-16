@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058837392538",
+    "project_id": "expert-car",
+    "storage_bucket": "expert-car.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058837392538:android:675c50894a3002993f4323",
+        "android_client_info": {
+          "package_name": "com.example.expert_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWGi6-VOFw1VfQtNfb_oZm2UBVvWpmu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

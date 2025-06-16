@@ -1,0 +1,88 @@
+name: expert_car
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.4.0
+  cloud_firestore: ^5.6.2
+  intl: ^0.17.0
+  firebase_messaging: ^15.2.1
+  flutter_local_notifications: ^18.0.1
+  flutter_background_service: ^5.0.5
+  timezone: ^0.9.2
+  font_awesome_flutter: ^10.7.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.2
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/logos/alfaromeo.png
+    - lib/assets/logos/audi.png
+    - lib/assets/logos/bako.png
+    - lib/assets/logos/bestune.png
+    - lib/assets/logos/bmw.png
+    - lib/assets/logos/byd.png
+    - lib/assets/logos/changan.png
+    - lib/assets/logos/chery.png
+    - lib/assets/logos/chevrolet.png
+    - lib/assets/logos/citroen.png
+    - lib/assets/logos/cupra.png
+    - lib/assets/logos/dacia.png
+    - lib/assets/logos/dfsk.png
+    - lib/assets/logos/dongfeng.png
+    - lib/assets/logos/faw.png
+    - lib/assets/logos/fiat.png
+    - lib/assets/logos/foday.png
+    - lib/assets/logos/ford.png
+    - lib/assets/logos/gac.png
+    - lib/assets/logos/geely.png
+    - lib/assets/logos/greatwall.png
+    - lib/assets/logos/haval.png
+    - lib/assets/logos/honda.png
+    - lib/assets/logos/hyundai.png
+    - lib/assets/logos/jac.png
+    - lib/assets/logos/jaguar.png
+    - lib/assets/logos/jeep.png
+    - lib/assets/logos/kia.png
+    - lib/assets/logos/landrover.png
+    - lib/assets/logos/mahindra.png
+    - lib/assets/logos/mercedesbenz.png
+    - lib/assets/logos/mg.png
+    - lib/assets/logos/mini.png
+    - lib/assets/logos/mitsubishi.png
+    - lib/assets/logos/nissan.png
+    - lib/assets/logos/opel.png
+    - lib/assets/logos/peugeot.png
+    - lib/assets/logos/porsche.png
+    - lib/assets/logos/renault.png
+    - lib/assets/logos/seat.png
+    - lib/assets/logos/skoda.png
+    - lib/assets/logos/ssangyong.png
+    - lib/assets/logos/suzuki.png
+    - lib/assets/logos/tata.png
+    - lib/assets/logos/toyota.png
+    - lib/assets/logos/volkswagen.png
+    - lib/assets/logos/volvo.png
+    - lib/assets/logos/wallyscar.png
+    - lib/assets/bleu.png
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/Expert_Car.png"
